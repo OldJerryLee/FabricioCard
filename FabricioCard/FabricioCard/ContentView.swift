@@ -31,8 +31,8 @@ struct ContentView: View {
                     .font(.system(size: 25))
                     .foregroundColor(.white)
                 Divider()
-                InfoView(text: "51 993191750", imageName: "phone.fill")
-                InfoView(text: "fabricio_2112@hotmail.com", imageName: "envelope.fill")
+                InfoView(text: "51 99******0", imageName: "phone.fill")
+                InfoView(text: "fabricio*****@hotmail.com", imageName: "envelope.fill")
             }
         }
     }
